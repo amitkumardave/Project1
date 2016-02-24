@@ -188,7 +188,7 @@ namespace WindowsFormsApplication1
 
     public class BankInformation:MongoEntity
     {
-        //This is comment
+        //This is comme nt
         string _bankName;
 
         [BsonElementAttribute("BankName")]
